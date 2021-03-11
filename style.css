@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+#welcome{
+    color: black;
+    background-color: lime;
+}
+#bio{
+    color: black;
+    background-color: indianred;
+}
+.line{
+    height: 6px;
+    background-color: aqua;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    line-height: 1.3;
+}
