@@ -48,3 +48,12 @@ p{
     background-color: black;
     
 }
+html{
+    scroll-behavior: smooth;
+}
+.article:hover{
+    color: coral;
+}
+a{
+    text-decoration: none;
+}
